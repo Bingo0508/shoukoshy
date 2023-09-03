@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋, I'm Tran Quang Manh (aka shoukoshy)
+
+### 🧑‍🦰 About me:
+  * My real name: ✨ Trần Quang Mạnh (Tran Quang Manh) ✨
+  * You can call me _*`shoukoshy`*_ 😎
+  * I was born in Ha Nam Province, Vietnam. However, I'm living in Ba Ria - Vung Tau Province, Vietnam. 
+  * Now, I'm a student at [University of Information Technology (UIT)](https://en.uit.edu.vn/).
+  * My birthday: XX-XX-2005.
+
+
 
 <!--
 **shoukoshy/shoukoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
