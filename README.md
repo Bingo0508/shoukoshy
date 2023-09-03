@@ -14,17 +14,29 @@
  * 💻 Programming.
  * 🎶 Listen to Japanese music (My favorite band is [YOASOBI](https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA "YOASOBI's YouTube channel")💖). I also listen to US/UK music but not regularly.
 
-<!--
-**shoukoshy/shoukoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏷️ Have learned languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 
-Here are some ideas to get you started:
+### 🌟 Still learning languages:
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My goal:
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler <br>
+
+> “The computer programmer is a creator of universes for which he alone is the lawgiver.” – Joseph Weizenbaum <br>
+
+> “Knowledge is power.” – Francis Bacon <br>
+
+My dream is to become a good programmer, so I am always willing to learn new things. That will help me gain more experience and improve my skills to reach my dream. And I'm very glad if you want to be my friend, please contact me! 😁
+
+### ✉️ Contact:
+- [Facebook](https://www.facebook.com/manhtran.shoukoshy "Personal Facebook")
+- [Email](mailto:manhtran050805@gmail.com "Personal Email")
