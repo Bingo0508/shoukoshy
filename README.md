@@ -28,6 +28,18 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
+### 💪 Team:
+ * I don't have a team right now. I'm just a single programmer.
+
+-------------------
+### Stats:
+
+#### My streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=shoukoshy&theme=dark&border_radius=10&card_width=550)](https://git.io/streak-stats)
+#### My Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoukoshy)](https://github.com/anuraghazra/github-readme-stats)
+-------------------
+
 ### 🎯 My goal:
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler <br>
 
