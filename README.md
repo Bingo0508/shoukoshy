@@ -31,13 +31,10 @@
 ### 💪 Team:
  * I don't have a team right now. I'm just a single programmer.
 
--------------------
-### Stats:
-
-#### My streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=shoukoshy&theme=dark&border_radius=10&card_width=550)](https://git.io/streak-stats)
-#### My Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoukoshy)](https://github.com/anuraghazra/github-readme-stats)
+### 🗓️ Stats:
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shoukoshy&theme=gruvbox&border_radius=10&card_width=500)](https://git.io/streak-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoukoshy&show_icons=true&theme=gruvbox&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukoshy&langCount=5&theme=gruvbox&layout=compact&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 -------------------
 
 ### 🎯 My goal:
