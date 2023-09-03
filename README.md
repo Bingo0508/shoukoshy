@@ -31,22 +31,14 @@
 ## 💪 Team:
  - I don't have a team right now. I'm just a single programmer.
 
-## 🗓️ Stats:
-
- <div align="center">
- 
-  ### 🏆 My trophy:
-  [![trophy](https://github-profile-trophy.vercel.app/?username=shoukoshy&theme=gruvbox&column=7&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-  
- </div>
-
- <div align="center">
- 
+## 🗓️ My data:
+  ### 🏆 Trophy:
+   [![trophy](https://github-profile-trophy.vercel.app/?username=shoukoshy&theme=gruvbox&column=7&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+  ### 🏹 Streak:
   [![GitHub Streak](https://streak-stats.demolab.com?user=shoukoshy&theme=gruvbox&border_radius=10&card_width=500)](https://git.io/streak-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoukoshy&show_icons=true&theme=gruvbox&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+  ### 📅 Stats:
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoukoshy&show_icons=true&theme=gruvbox&card_width=500)](https://github.com/anuraghazra/github-readme-stats) <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukoshy&langCount=6&theme=gruvbox&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
- </div>
 
 ## ✨ Typical projects:
  
